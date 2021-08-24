@@ -5,6 +5,9 @@ In this IoT project, I have shown how to make an IoT-based Home Automation with 
 
 If the internet is not available, then you can control the home appliances manually with switches and IR remote. During the article, I have shown all the steps to make this smart home system.
 
+# Tutorial video link for this IoT-based Home Automation project
+
+https://youtu.be/pfEGnnY66sw
 
 This IoT-based Home Automation system has the following features:
 
