@@ -92,6 +92,7 @@ To make the circuit compact and give a professional look, I have designed the PC
 You can download the PCB Gerber file of this home automation project from the following link:
 
 # Download the PCB Gerber File
+https://github.com/techstudycell/arduino-iot-cloud-esp32-alexa-control-relays/tree/main/PCB%20Gerber
 
 # Order the PCB from JLCPCB
 After downloading the Garber file you can easily order the PCB
